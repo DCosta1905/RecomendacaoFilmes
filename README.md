@@ -9,3 +9,8 @@ Este é um projeto de recomendação de filmes baseado em um filme escolhido pel
 
 # Licença
 - Este projeto está licenciado sob a MIT License.
+
+
+# Preview
+![image](https://github.com/DCosta1905/RecomendacaoFilmes/assets/138160470/343c5c90-d4ff-4f56-b4bc-f1376ec8023f)
+
