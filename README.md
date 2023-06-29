@@ -6,3 +6,6 @@ Este é um projeto de recomendação de filmes baseado em um filme escolhido pel
 - Python 3.x
 - Jupyter Notebook
 - Biblioteca Streamlit
+
+# Licença
+- Este projeto está licenciado sob a MIT License.
